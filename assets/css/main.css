@@ -1657,11 +1657,12 @@ input, select, textarea {
 			opacity: 0;
 		}
 		
-		/* Emphasise hero subtitle */
+/* Emphasise hero subtitle */
 #header .content p strong {
-  font-size: 1.2em;
-  font-weight: 600;
-  letter-spacing: 0.08em;
+  font-size: 1.25em;
+  font-weight: 700;
+  letter-spacing: 0.10em;
   display: inline-block;
-  margin-bottom: 0.4em;
+  margin-bottom: 0.35em;
 }
+

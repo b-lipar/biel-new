@@ -1656,3 +1656,12 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+		
+		/* Emphasise hero subtitle */
+#header .content p strong {
+  font-size: 1.2em;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  display: inline-block;
+  margin-bottom: 0.4em;
+}

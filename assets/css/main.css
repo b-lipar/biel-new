@@ -1666,3 +1666,11 @@ input, select, textarea {
   margin-bottom: 0.35em;
 }
 
+/* Justify text in modal sections */
+#main article p,
+#main article ul,
+#main article ol {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
